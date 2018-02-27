@@ -1,0 +1,1 @@
+docker run --restart=always -d -v $(pwd):/app googledoc-link-bot
